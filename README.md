@@ -51,7 +51,6 @@ src="https://img.shields.io/twitch/status/salahakrim23?logo=twitchsx&style=for-t
 <a href="https://www.facebook.com/profile.php?id=100006634848898" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" style="margin-right: 10px" /></a>
 <a href="https://www.github.com/salahakrim" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" style="margin-right: 10px" /></a>
 <a href="https://www.linkedin.com/in/salaheddine-akrim-3918791aa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" style="margin-right: 10px" /></a>
-<a href="https://www.twitter.com/AkrimSalah" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" style="margin-right: 10px" /></a>
 </p>
 
 <!-- ### Badges
